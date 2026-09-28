@@ -153,7 +153,7 @@
 				<div class="elementor-element elementor-element-38ec8d2a elementor-align-center elementor-widget elementor-widget-button" data-id="38ec8d2a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=5551999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=51999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">fale  com um consultor</span>
 					</span>
@@ -209,7 +209,7 @@
 				<div class="elementor-element elementor-element-4263064 elementor-align-center elementor-widget elementor-widget-button" data-id="4263064" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=5551999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=51999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<i aria-hidden="true" class="icon icon-chevron-right"></i>			</span>
@@ -259,7 +259,7 @@
 				<div class="elementor-element elementor-element-2dbea65 elementor-align-center elementor-widget elementor-widget-button" data-id="2dbea65" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=5551999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=51999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
@@ -336,7 +336,7 @@
 				<div class="elementor-element elementor-element-7a9e8d05 elementor-align-left elementor-widget__width-initial elementor-tablet-align-right elementor-mobile-align-right elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="7a9e8d05" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=5551999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=51999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">consultar valor</span>
 					</span>
@@ -374,7 +374,7 @@
 				<div class="elementor-element elementor-element-046a702 elementor-align-left elementor-widget__width-initial elementor-tablet-align-right elementor-mobile-align-right elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="046a702" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=5551999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=51999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">consultar valor</span>
 					</span>
@@ -412,7 +412,7 @@
 				<div class="elementor-element elementor-element-5ee8dca3 elementor-align-left elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="5ee8dca3" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=5551999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=51999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">consultar valor</span>
 					</span>
@@ -454,7 +454,7 @@
 				<div class="elementor-element elementor-element-a5ec3b1 elementor-align-left elementor-widget__width-initial elementor-tablet-align-right elementor-mobile-align-right elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="a5ec3b1" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=5551999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=51999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">CONSULTAR VALOR</span>
 					</span>
@@ -490,7 +490,7 @@
 				<div class="elementor-element elementor-element-acc6561 elementor-align-left elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-tablet-align-right elementor-mobile-align-right elementor-widget elementor-widget-button" data-id="acc6561" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=5551999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=51999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">CONSULTAR VALOR</span>
 					</span>
@@ -528,7 +528,7 @@
 				<div class="elementor-element elementor-element-58cc1ca elementor-align-left elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="58cc1ca" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=5551999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=51999239678&amp;text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de.." target="_blank">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">consultar valor</span>
 					</span>
@@ -564,7 +564,7 @@
 				<div class="elementor-element elementor-element-1d752b00 elementor-align-left elementor-widget__width-initial elementor-tablet-align-center elementor-widget-tablet__width-inherit elementor-widget elementor-widget-button" data-id="1d752b00" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=5551999239678&amp;text=Ol%C3%A1%20gostaria%20de%20saber%20mais%20sobre%20o%20pacote%20de%20viagem%20para%20Florian%C3%B3polis" target="_blank">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="https://api.whatsapp.com/send?phone=51999239678&amp;text=Ol%C3%A1%20gostaria%20de%20saber%20mais%20sobre%20o%20pacote%20de%20viagem%20para%20Florian%C3%B3polis" target="_blank">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">Saiba mais</span>
 					</span>
