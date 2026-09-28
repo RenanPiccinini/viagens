@@ -73,7 +73,7 @@
 <link rel="icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2021/03/cropped-exclusiva-viagens-faviicon-1-270x270.png">
-<link rel="stylesheet" href="{{ asset('styles.css') }}"><link rel="stylesheet" href="{{ asset('nacionais-styles.css') }}"></head>
+<link rel="stylesheet" href="{{ url('styles.css') }}"><link rel="stylesheet" href="{{ url('nacionais-styles.css') }}"></head>
 
 <body data-rsssl="1" class="wp-singular page-template page-template-elementor_header_footer page page-id-101 custom-background wp-embed-responsive wp-theme-twentytwentyone is-light-theme has-background-white singular has-main-navigation elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-101 clickup-chrome-ext_installed" cz-shortcut-listen="true">
 <div id="page" class="site">
@@ -502,5 +502,5 @@ Stack trace:
 
 	<div class="wp-die-message"><p>Há um erro crítico no seu site.</p><p><a href="https://wordpress.org/documentation/article/faq-troubleshooting/">Saiba mais sobre a como resolver problemas do WordPress.</a></p></div>
 
-	<script src="{{ asset('assets/menu.js') }}"></script>
+	<script src="{{ url('assets/menu.js') }}"></script>
 </body></html>

@@ -76,7 +76,7 @@
 <link rel="icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2021/03/cropped-exclusiva-viagens-faviicon-1-270x270.png">
-<link rel="stylesheet" href="{{ asset('contato-styles.css') }}"></head>
+<link rel="stylesheet" href="{{ url('contato-styles.css') }}"></head>
 
 <body data-rsssl="1" class="wp-singular page-template-default page page-id-99 custom-background wp-embed-responsive wp-theme-twentytwentyone is-light-theme has-background-white singular has-main-navigation elementor-default elementor-kit-7 elementor-page elementor-page-99 e--ua-blink e--ua-chrome e--ua-mac e--ua-webkit clickup-chrome-ext_installed" data-elementor-device-mode="desktop" cz-shortcut-listen="true">
 <div id="page" class="site">
@@ -459,5 +459,5 @@
 		
 
 
-<script src="{{ asset("assets/menu.js") }}"></script>
+<script src="{{ url("assets/menu.js") }}"></script>
 </body></html>
