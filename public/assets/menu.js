@@ -94,13 +94,4 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 5000);
     }
 
-    // 4. Floating WhatsApp Button logic
-    var floatingWhatsElements = document.querySelectorAll('.wws-popup-container');
-    floatingWhatsElements.forEach(function(floatingWhats) {
-        floatingWhats.style.cursor = 'pointer';
-        floatingWhats.addEventListener('click', function(e) {
-            e.preventDefault();
-            window.open('https://api.whatsapp.com/send?phone=51999239678&text=Ol%C3%A1%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens%20a%20respeito%20de..', '_blank');
-        });
-    });
 });
