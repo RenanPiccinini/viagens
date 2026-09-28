@@ -10,7 +10,9 @@
         "laravel/framework": "^11.31",
         "laravel/tinker": "^2.9"
     },
-    "require-dev": {},
+    "require-dev": {
+        "laravel/boost": "^2.10"
+    },
     "autoload": {
         "psr-4": {
             "App\\": "app/",
