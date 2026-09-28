@@ -69,11 +69,11 @@
 			
             
                         
-            <link rel="icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png" sizes="32x32">
-<link rel="icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
+            <link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png" sizes="32x32">
+<link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2021/03/cropped-exclusiva-viagens-faviicon-1-270x270.png">
-<link rel="stylesheet" href="{{ url('styles.css') }}"><link rel="stylesheet" href="{{ url('nacionais-styles.css') }}"></head>
+<link rel="stylesheet" href="/styles.css"><link rel="stylesheet" href="/nacionais-styles.css"></head>
 
 <body data-rsssl="1" class="wp-singular page-template page-template-elementor_header_footer page page-id-101 custom-background wp-embed-responsive wp-theme-twentytwentyone is-light-theme has-background-white singular has-main-navigation elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-101 clickup-chrome-ext_installed" cz-shortcut-listen="true">
 <div id="page" class="site">
@@ -196,7 +196,7 @@
                                             <div class="elementskit-post-image-card">
                             <div class="elementskit-entry-header">
                                                                     <a href="/mineral-tour/" class="elementskit-entry-thumb">
-                                        <img decoding="async" src="assets/images/mineral-tour-1.jpg" alt="Mineral Tour">
+                                        <img decoding="async" src="/assets/images/mineral-tour-1.jpg" alt="Mineral Tour">
                                     </a><!-- .elementskit-entry-thumb END -->
                                                                     
                                 
@@ -213,7 +213,7 @@
                                                                                                                                                                                                 <p>Visitação a um GARIMPO EM ATIVIDADE com galerias de aproximadamente 200 metros</p>
                                                                                                                                                                         <div class="btn-wraper">
                                                                                     <a class="elementskit-btn whitespace--normal" id="" href="/mineral-tour/">
-                                                Leia mais                                                <i aria-hidden="true" class="icon icon-map-marker1" style=";background-image:url(&quot;assets/images/Image-BABN5M3.jpg&quot;)"></i>                                            </a>
+                                                Leia mais                                                <i aria-hidden="true" class="icon icon-map-marker1" style=";background-image:url(&quot;/assets/images/Image-BABN5M3.jpg&quot;)"></i>                                            </a>
                                         
                                                                             </div>
                                                             </div><!-- .elementskit-post-body END -->
@@ -225,7 +225,7 @@
                                             <div class="elementskit-post-image-card">
                             <div class="elementskit-entry-header">
                                                                     <a href="/morretes/" class="elementskit-entry-thumb">
-                                        <img decoding="async" src="assets/images/trem2.jpg" alt="Morretes">
+                                        <img decoding="async" src="/assets/images/trem2.jpg" alt="Morretes">
                                     </a><!-- .elementskit-entry-thumb END -->
                                                                     
                                 
@@ -254,13 +254,13 @@
                                             <div class="elementskit-post-image-card">
                             <div class="elementskit-entry-header">
                                                                     <a href="/aparecida/" class="elementskit-entry-thumb">
-                                        <img decoding="async" src="assets/images/aparecida-do-norte.jpg" alt="Aparecida do Norte">
+                                        <img decoding="async" src="/assets/images/aparecida-do-norte.jpg" alt="Aparecida do Norte">
                                     </a><!-- .elementskit-entry-thumb END -->
                                                                     
                                 
                                                             </div><!-- .elementskit-entry-header END -->
 
-                            <div class="elementskit-post-body " style=";background-image:url(&quot;assets/images/Asset-1_2x-18.16.06.png&quot;)">
+                            <div class="elementskit-post-body " style=";background-image:url(&quot;/assets/images/Asset-1_2x-18.16.06.png&quot;)">
                                 
                                                                                                                                     
                                     
@@ -502,5 +502,5 @@ Stack trace:
 
 	<div class="wp-die-message"><p>Há um erro crítico no seu site.</p><p><a href="https://wordpress.org/documentation/article/faq-troubleshooting/">Saiba mais sobre a como resolver problemas do WordPress.</a></p></div>
 
-	<script src="{{ url('assets/menu.js') }}"></script>
+	<script src="/assets/menu.js"></script>
 </body></html>

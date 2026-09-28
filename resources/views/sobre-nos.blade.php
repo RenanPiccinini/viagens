@@ -74,11 +74,11 @@
 			
             
                         
-            <link rel="icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png" sizes="32x32">
-<link rel="icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
+            <link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png" sizes="32x32">
+<link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2021/03/cropped-exclusiva-viagens-faviicon-1-270x270.png">
-<link rel="stylesheet" href="{{ url('sobre-nos-styles.css') }}"></head>
+<link rel="stylesheet" href="/sobre-nos-styles.css"></head>
 
 <body data-rsssl="1" class="wp-singular page-template page-template-elementor_header_footer page page-id-97 custom-background wp-embed-responsive wp-theme-twentytwentyone is-light-theme has-background-white singular has-main-navigation elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-97 e--ua-blink e--ua-chrome e--ua-mac e--ua-webkit clickup-chrome-ext_installed" data-elementor-device-mode="desktop" cz-shortcut-listen="true">
 <div id="page" class="site">
@@ -171,7 +171,7 @@
 				</div>
 				<div class="elementor-element elementor-element-f0c9258 elementor-widget elementor-widget-image" data-id="f0c9258" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img fetchpriority="high" decoding="async" width="4150" height="2287" src="assets/images/Asset-2-1.png" class="attachment-full size-full wp-image-19" alt="" style="width:100%;height:55.11%;max-width:4150px">															</div>
+															<img fetchpriority="high" decoding="async" width="4150" height="2287" src="/assets/images/Asset-2-1.png" class="attachment-full size-full wp-image-19" alt="" style="width:100%;height:55.11%;max-width:4150px">															</div>
 				</div>
 					</div>
 		</div>
@@ -200,7 +200,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-6aeb359 elementor-widget elementor-widget-image" data-id="6aeb359" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="64" height="64" src="assets/images/destination.png" class="attachment-large size-large wp-image-564" alt="" style="width:100%;height:100%;max-width:64px">															</div>
+															<img decoding="async" width="64" height="64" src="/assets/images/destination.png" class="attachment-large size-large wp-image-564" alt="" style="width:100%;height:100%;max-width:64px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-ae16718 elementor-widget elementor-widget-icon-box" data-id="ae16718" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
@@ -228,10 +228,10 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-39e2f9f elementor-widget elementor-widget-image" data-id="39e2f9f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="64" height="64" src="assets/images/sunset.png" class="attachment-large size-large wp-image-569" alt="" style="width:100%;height:100%;max-width:64px">															</div>
+															<img decoding="async" width="64" height="64" src="/assets/images/sunset.png" class="attachment-large size-large wp-image-569" alt="" style="width:100%;height:100%;max-width:64px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-506e5c98 elementor-widget elementor-widget-icon-box" data-id="506e5c98" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container" style=";background-image:url(&quot;assets/images/o-que-fazer-em-porto-alegre-gasometro2-1.jpg&quot;)">
+				<div class="elementor-widget-container" style=";background-image:url(&quot;/assets/images/o-que-fazer-em-porto-alegre-gasometro2-1.jpg&quot;)">
 							<div class="elementor-icon-box-wrapper">
 
 			
@@ -256,7 +256,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-51c156c elementor-widget elementor-widget-image" data-id="51c156c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="64" height="64" src="assets/images/sign.png" class="attachment-large size-large wp-image-570" alt="" style="width:100%;height:100%;max-width:64px">															</div>
+															<img decoding="async" width="64" height="64" src="/assets/images/sign.png" class="attachment-large size-large wp-image-570" alt="" style="width:100%;height:100%;max-width:64px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-6eeb162 elementor-widget elementor-widget-icon-box" data-id="6eeb162" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
@@ -286,7 +286,7 @@
 		</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-1f6bbb1c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementskit-parallax-multi-container" data-id="1f6bbb1c" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;_ha_eqh_enable&quot;:false,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}" style=";background-image:url(&quot;assets/images/OJO4YQ0.jpg&quot;)">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1f6bbb1c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementskit-parallax-multi-container" data-id="1f6bbb1c" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;_ha_eqh_enable&quot;:false,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}" style=";background-image:url(&quot;/assets/images/OJO4YQ0.jpg&quot;)">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3618619c" data-id="3618619c" data-element_type="column" data-e-type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -580,5 +580,5 @@
 		
 
 
-<script src="{{ url("assets/menu.js") }}"></script>
+<script src="/assets/menu.js"></script>
 </body></html>

@@ -52,11 +52,11 @@
 			
             
                         
-            <link rel="icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png" sizes="32x32">
-<link rel="icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
+            <link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png" sizes="32x32">
+<link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2021/03/cropped-exclusiva-viagens-faviicon-1-270x270.png">
-<link rel="stylesheet" href="{{ url('estudantil-pedagogico-styles.css') }}"></head>
+<link rel="stylesheet" href="/estudantil-pedagogico-styles.css"></head>
 
 <body data-rsssl="1" class="wp-singular page-template-default page page-id-883 custom-background wp-embed-responsive wp-theme-twentytwentyone is-light-theme has-background-white singular has-main-navigation elementor-default elementor-kit-7 clickup-chrome-ext_installed" cz-shortcut-listen="true">
 <div id="page" class="site">
@@ -279,5 +279,5 @@
 		
 
 
-<script src="{{ url("assets/menu.js") }}"></script>
+<script src="/assets/menu.js"></script>
 </body></html>

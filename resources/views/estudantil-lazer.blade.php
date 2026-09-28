@@ -72,11 +72,11 @@
 			
             
                         
-            <link rel="icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png" sizes="32x32">
-<link rel="icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
+            <link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png" sizes="32x32">
+<link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2021/03/cropped-exclusiva-viagens-faviicon-1-270x270.png">
-<link rel="stylesheet" href="{{ url('estudantil-lazer-styles.css') }}"></head>
+<link rel="stylesheet" href="/estudantil-lazer-styles.css"></head>
 
 <body data-rsssl="1" class="wp-singular page-template page-template-elementor_header_footer page page-id-105 custom-background wp-embed-responsive wp-theme-twentytwentyone is-light-theme has-background-white singular has-main-navigation elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-105 e--ua-blink e--ua-chrome e--ua-mac e--ua-webkit clickup-chrome-ext_installed" data-elementor-device-mode="desktop" cz-shortcut-listen="true">
 <div id="page" class="site">
@@ -197,7 +197,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-24dd88e3 elementor-widget elementor-widget-image" data-id="24dd88e3" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img fetchpriority="high" decoding="async" width="800" height="450" src="assets/images/floripa.jpg" class="elementor-animation-float attachment-full size-full wp-image-256" alt="" style="width:100%;height:56.25%;max-width:800px">															</div>
+															<img fetchpriority="high" decoding="async" width="800" height="450" src="/assets/images/floripa.jpg" class="elementor-animation-float attachment-full size-full wp-image-256" alt="" style="width:100%;height:56.25%;max-width:800px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-33023c3b elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="33023c3b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -219,7 +219,7 @@
 				<div class="elementor-element elementor-element-4841d30e elementor-align-left elementor-widget__width-initial elementor-tablet-align-right elementor-mobile-align-right elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="4841d30e" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="#" style=";background-image:url(&quot;assets/images/Image-L4YGGN2.jpg&quot;)">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="#" style=";background-image:url(&quot;/assets/images/Image-L4YGGN2.jpg&quot;)">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">agende </span>
 					</span>
@@ -233,7 +233,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-1cc551b9 elementor-widget elementor-widget-image" data-id="1cc551b9" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="1060" height="706" src="assets/images/Image-EKP8FQM.jpg" class="elementor-animation-float attachment-full size-full wp-image-31" alt="" style="width:100%;height:66.6%;max-width:1060px">															</div>
+															<img decoding="async" width="1060" height="706" src="/assets/images/Image-EKP8FQM.jpg" class="elementor-animation-float attachment-full size-full wp-image-31" alt="" style="width:100%;height:66.6%;max-width:1060px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-1a281996 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="1a281996" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -249,7 +249,7 @@
 				</div>
 				<div class="elementor-element elementor-element-1c2e73cf elementor-widget__width-initial elementor-widget-tablet__width-auto elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="1c2e73cf" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="star-rating.default">
 				<div class="elementor-widget-container">
-							<div class="elementor-star-rating__wrapper" style=";background-image:url(&quot;assets/images/Background-pattern-1.png&quot;)">
+							<div class="elementor-star-rating__wrapper" style=";background-image:url(&quot;/assets/images/Background-pattern-1.png&quot;)">
 						<div class="elementor-star-rating" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating">
 				<i class="elementor-star-full" aria-hidden="true"></i><i class="elementor-star-full" aria-hidden="true"></i><i class="elementor-star-full" aria-hidden="true"></i><i class="elementor-star-full" aria-hidden="true"></i><i class="elementor-star-8" aria-hidden="true"></i>				<span itemprop="ratingValue" class="elementor-screen-only">Classificado como 4.8 de 5</span>
 			</div>
@@ -273,7 +273,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-ee8b10c elementor-widget elementor-widget-image" data-id="ee8b10c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="2000" height="1333" src="assets/images/prambanan-lhindu-temple-ruins-java-indonesia-.jpg" class="elementor-animation-float attachment-full size-full wp-image-40" alt="" style="width:100%;height:66.65%;max-width:2000px">															</div>
+															<img decoding="async" width="2000" height="1333" src="/assets/images/prambanan-lhindu-temple-ruins-java-indonesia-.jpg" class="elementor-animation-float attachment-full size-full wp-image-40" alt="" style="width:100%;height:66.65%;max-width:2000px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-3dc3c0c0 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="3dc3c0c0" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -375,7 +375,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-fcbabe9 elementor-widget elementor-widget-image" data-id="fcbabe9" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="2000" height="1334" src="assets/images/borobudur-temple-in-java.jpg" class="elementor-animation-float attachment-full size-full wp-image-41" alt="" style="width:100%;height:66.7%;max-width:2000px">															</div>
+															<img decoding="async" width="2000" height="1334" src="/assets/images/borobudur-temple-in-java.jpg" class="elementor-animation-float attachment-full size-full wp-image-41" alt="" style="width:100%;height:66.7%;max-width:2000px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-0d55e9f elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="0d55e9f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -415,7 +415,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-925a01b elementor-widget elementor-widget-image" data-id="925a01b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="1060" height="706" src="assets/images/Image-XN7A66P.jpg" class="elementor-animation-float attachment-full size-full wp-image-42" alt="" style="width:100%;height:66.6%;max-width:1060px">															</div>
+															<img decoding="async" width="1060" height="706" src="/assets/images/Image-XN7A66P.jpg" class="elementor-animation-float attachment-full size-full wp-image-42" alt="" style="width:100%;height:66.6%;max-width:1060px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-41367ad elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="41367ad" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -455,7 +455,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-5bb4156 elementor-widget elementor-widget-image" data-id="5bb4156" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="1060" height="706" src="assets/images/Image-PCLVTZF.jpg" class="elementor-animation-float attachment-full size-full wp-image-43" alt="" style="width:100%;height:66.6%;max-width:1060px">															</div>
+															<img decoding="async" width="1060" height="706" src="/assets/images/Image-PCLVTZF.jpg" class="elementor-animation-float attachment-full size-full wp-image-43" alt="" style="width:100%;height:66.6%;max-width:1060px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-546f3f4 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="546f3f4" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -620,7 +620,7 @@
 					<a href="/circuito-andino/">Circuito Andino</a>
 									</li>
 											<li>
-					<a href="/costaneorivieira/" style=";background-image:url(&quot;assets/images/travel-trip-map-direction-exploration-planning-concept.jpg&quot;)">Costaneorivieira</a>
+					<a href="/costaneorivieira/" style=";background-image:url(&quot;/assets/images/travel-trip-map-direction-exploration-planning-concept.jpg&quot;)">Costaneorivieira</a>
 									</li>
 											<li>
 					<a href="/mineral-tour/">Mineral Tour</a>
@@ -646,7 +646,7 @@
 </li>
 			</ul>
 
-			</nav></section><section id="meta-2" class="widget widget_meta" style=";background-image:url(&quot;assets/images/Asset-1_2x-18.16.06.png&quot;)"><h2 class="widget-title">Meta</h2><nav aria-label="Meta">
+			</nav></section><section id="meta-2" class="widget widget_meta" style=";background-image:url(&quot;/assets/images/Asset-1_2x-18.16.06.png&quot;)"><h2 class="widget-title">Meta</h2><nav aria-label="Meta">
 		<ul>
 						<li><a href="/wp-login.php?itsec-hb-token=luciano">Acessar</a></li>
 			<li><a href="/feed/">Feed de posts</a></li>
@@ -665,7 +665,7 @@
 																						<a href="/">Exclusiva</a>
 																		</div><!-- .site-name -->
 			<div class="powered-by">
-				Orgulhosamente desenvolvido com <a href="https://br.wordpress.org/" style=";background-image:url(&quot;assets/images/Background-pattern-1.png&quot;)">WordPress</a>.			</div><!-- .powered-by -->
+				Orgulhosamente desenvolvido com <a href="https://br.wordpress.org/" style=";background-image:url(&quot;/assets/images/Background-pattern-1.png&quot;)">WordPress</a>.			</div><!-- .powered-by -->
 
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
@@ -776,5 +776,5 @@
 		
 
 
-<script src="{{ url("assets/menu.js") }}"></script>
+<script src="/assets/menu.js"></script>
 </body></html>

@@ -70,11 +70,11 @@
 			
             
                         
-            <link rel="icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png" sizes="32x32">
-<link rel="icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
+            <link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png" sizes="32x32">
+<link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2021/03/cropped-exclusiva-viagens-faviicon-1-270x270.png">
-<link rel="stylesheet" href="{{ url('styles.css') }}"><link rel="stylesheet" href="{{ url('internacionais-styles.css') }}"></head>
+<link rel="stylesheet" href="/styles.css"><link rel="stylesheet" href="/internacionais-styles.css"></head>
 
 <body data-rsssl="1" class="wp-singular page-template page-template-elementor_header_footer page page-id-103 custom-background wp-embed-responsive wp-theme-twentytwentyone is-light-theme has-background-white singular has-main-navigation elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-103 clickup-chrome-ext_installed" cz-shortcut-listen="true">
 <div id="page" class="site">
@@ -197,7 +197,7 @@
                                             <div class="elementskit-post-image-card">
                             <div class="elementskit-entry-header">
                                                                     <a href="/circuito-andino/" class="elementskit-entry-thumb">
-                                        <img decoding="async" src="assets/images/1526660879-1.jpg" alt="Circuito Andino">
+                                        <img decoding="async" src="/assets/images/1526660879-1.jpg" alt="Circuito Andino">
                                     </a><!-- .elementskit-entry-thumb END -->
                                                                     
                                 
@@ -221,12 +221,12 @@
                         </div>
                     
                 </div>
-                            <div class="post-item ekit-col-4" style=";background-image:url(&quot;assets/images/BARILOCHE-1-scaled-1.jpg&quot;)">
+                            <div class="post-item ekit-col-4" style=";background-image:url(&quot;/assets/images/BARILOCHE-1-scaled-1.jpg&quot;)">
 
                                             <div class="elementskit-post-image-card">
                             <div class="elementskit-entry-header">
                                                                     <a href="/costaneorivieira/" class="elementskit-entry-thumb">
-                                        <img decoding="async" src="assets/images/costa-neoriviera-ta-listings.jpg" alt="Costaneorivieira">
+                                        <img decoding="async" src="/assets/images/costa-neoriviera-ta-listings.jpg" alt="Costaneorivieira">
                                     </a><!-- .elementskit-entry-thumb END -->
                                                                     
                                 
@@ -263,7 +263,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-1731a82 elementor-widget elementor-widget-spacer" data-id="1731a82" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
-							<div class="elementor-spacer" style=";background-image:url(&quot;assets/images/Asset-1_2x-18.16.06.png&quot;)">
+							<div class="elementor-spacer" style=";background-image:url(&quot;/assets/images/Asset-1_2x-18.16.06.png&quot;)">
 			<div class="elementor-spacer-inner"></div>
 		</div>
 						</div>
@@ -422,7 +422,7 @@
 </li>
 			</ul>
 
-			</nav></section><section id="meta-2" class="widget widget_meta"><h2 class="widget-title" style=";background-image:url(&quot;assets/images/travel-trip-map-direction-exploration-planning-concept.jpg&quot;)">Meta</h2><nav aria-label="Meta">
+			</nav></section><section id="meta-2" class="widget widget_meta"><h2 class="widget-title" style=";background-image:url(&quot;/assets/images/travel-trip-map-direction-exploration-planning-concept.jpg&quot;)">Meta</h2><nav aria-label="Meta">
 		<ul>
 						<li><a href="/wp-login.php?itsec-hb-token=luciano">Acessar</a></li>
 			<li><a href="/feed/">Feed de posts</a></li>
@@ -506,5 +506,5 @@ Stack trace:
 
 	<div class="wp-die-message"><p>Há um erro crítico no seu site.</p><p><a href="https://wordpress.org/documentation/article/faq-troubleshooting/">Saiba mais sobre a como resolver problemas do WordPress.</a></p></div>
 
-	<script src="{{ url('assets/menu.js') }}"></script>
+	<script src="/assets/menu.js"></script>
 </body></html>

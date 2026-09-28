@@ -6,11 +6,11 @@
     <meta name="theme-color" content="#092c3a">
     <meta name="description" content="Viagens nacionais, internacionais, estudantis e experiências feitas para você. Há mais de 20 anos criando histórias com a Exclusiva Viagens, em Porto Alegre.">
     <title>Exclusiva Viagens — O mundo no seu tempo</title>
-    <link rel="icon" href="{{ url('assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png') }}">
+    <link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{ url('styles.css') }}">
+    <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
     <div class="scroll-progress" aria-hidden="true"></div>
@@ -33,8 +33,8 @@
 
     <main>
         <section class="hero" aria-labelledby="hero-title">
-            <div class="hero-image hero-image-main" data-parallax="0.12"><img src="{{ url('assets/images/water-bungalows-and-wooden-jetty-on-maldives-1-e1608537138634.jpg') }}" alt="Bangalôs sobre o mar nas Maldivas"></div>
-            <div class="hero-image hero-image-side" data-parallax="0.2"><img src="{{ url('assets/images/BARILOCHE-1-scaled-1.jpg') }}" alt="Paisagem montanhosa de Bariloche"></div>
+            <div class="hero-image hero-image-main" data-parallax="0.12"><img src="/assets/images/water-bungalows-and-wooden-jetty-on-maldives-1-e1608537138634.jpg" alt="Bangalôs sobre o mar nas Maldivas"></div>
+            <div class="hero-image hero-image-side" data-parallax="0.2"><img src="/assets/images/BARILOCHE-1-scaled-1.jpg" alt="Paisagem montanhosa de Bariloche"></div>
             <div class="hero-shade"></div>
             <div class="hero-grain" aria-hidden="true"></div>
             <div class="hero-content" data-reveal>
@@ -57,17 +57,17 @@
         <section class="destinations section-wrap" id="destinos">
             <div class="section-heading" data-reveal><div><p class="eyebrow"><span class="eyebrow-line"></span>ESCOLHAS QUE INSPIRAM</p><h2>Qual lugar<br>chama por <em>você?</em></h2></div><a class="text-link" href="{{ route('nacionais') }}">Ver todos os destinos <span>→</span></a></div>
             <div class="destination-grid">
-                <a class="destination-card destination-large tilt-card" href="{{ route('internacionais') }}" data-tilt data-reveal><img src="{{ url('assets/images/costa-neoriviera-ta-listings.jpg') }}" alt="Navio Costa Neoriviera" loading="lazy"><span class="card-shade"></span><span class="destination-meta"><small>MAR &amp; HORIZONTE</small><strong>Costa Neoriviera</strong><span class="card-link">↗</span></span></a>
-                <a class="destination-card tilt-card" href="{{ route('nacionais') }}" data-tilt data-reveal><img src="{{ url('assets/images/aparecida-do-norte.jpg') }}" alt="Santuário de Aparecida do Norte" loading="lazy"><span class="card-shade"></span><span class="destination-meta"><small>FÉ &amp; CULTURA</small><strong>Aparecida do Norte</strong><span class="card-link">↗</span></span></a>
-                <a class="destination-card tilt-card" href="{{ route('nacionais') }}" data-tilt data-reveal><img src="{{ url('assets/images/mineral-tour-1.jpg') }}" alt="Passeio pelo Mineral Tour" loading="lazy"><span class="card-shade"></span><span class="destination-meta"><small>AVENTURA EM FAMÍLIA</small><strong>Mineral Tour</strong><span class="card-link">↗</span></span></a>
-                <a class="destination-card tilt-card" href="{{ route('internacionais') }}" data-tilt data-reveal><img src="{{ url('assets/images/circuito-andino.jpg') }}" alt="Paisagem dos Lagos Andinos" loading="lazy"><span class="card-shade"></span><span class="destination-meta"><small>NATUREZA SEM LIMITES</small><strong>Circuito Andino</strong><span class="card-link">↗</span></span></a>
-                <a class="destination-card destination-wide tilt-card" href="{{ route('internacionais') }}" data-tilt data-reveal><img src="{{ url('assets/images/montevideu.jpg') }}" alt="Montevidéu, Uruguai" loading="lazy"><span class="card-shade"></span><span class="destination-meta"><small>CHARME URUGUAIO</small><strong>Montevidéu</strong><span class="card-link">↗</span></span></a>
-                <a class="destination-card tilt-card" href="{{ route('nacionais') }}" data-tilt data-reveal><img src="{{ url('assets/images/trem2.jpg') }}" alt="Trem turístico de Curitiba a Morretes" loading="lazy"><span class="card-shade"></span><span class="destination-meta"><small>TRILHOS &amp; MONTANHAS</small><strong>Curitiba – Morretes</strong><span class="card-link">↗</span></span></a>
+                <a class="destination-card destination-large tilt-card" href="{{ route('internacionais') }}" data-tilt data-reveal><img src="/assets/images/costa-neoriviera-ta-listings.jpg" alt="Navio Costa Neoriviera" loading="lazy"><span class="card-shade"></span><span class="destination-meta"><small>MAR &amp; HORIZONTE</small><strong>Costa Neoriviera</strong><span class="card-link">↗</span></span></a>
+                <a class="destination-card tilt-card" href="{{ route('nacionais') }}" data-tilt data-reveal><img src="/assets/images/aparecida-do-norte.jpg" alt="Santuário de Aparecida do Norte" loading="lazy"><span class="card-shade"></span><span class="destination-meta"><small>FÉ &amp; CULTURA</small><strong>Aparecida do Norte</strong><span class="card-link">↗</span></span></a>
+                <a class="destination-card tilt-card" href="{{ route('nacionais') }}" data-tilt data-reveal><img src="/assets/images/mineral-tour-1.jpg" alt="Passeio pelo Mineral Tour" loading="lazy"><span class="card-shade"></span><span class="destination-meta"><small>AVENTURA EM FAMÍLIA</small><strong>Mineral Tour</strong><span class="card-link">↗</span></span></a>
+                <a class="destination-card tilt-card" href="{{ route('internacionais') }}" data-tilt data-reveal><img src="/assets/images/circuito-andino.jpg" alt="Paisagem dos Lagos Andinos" loading="lazy"><span class="card-shade"></span><span class="destination-meta"><small>NATUREZA SEM LIMITES</small><strong>Circuito Andino</strong><span class="card-link">↗</span></span></a>
+                <a class="destination-card destination-wide tilt-card" href="{{ route('internacionais') }}" data-tilt data-reveal><img src="/assets/images/montevideu.jpg" alt="Montevidéu, Uruguai" loading="lazy"><span class="card-shade"></span><span class="destination-meta"><small>CHARME URUGUAIO</small><strong>Montevidéu</strong><span class="card-link">↗</span></span></a>
+                <a class="destination-card tilt-card" href="{{ route('nacionais') }}" data-tilt data-reveal><img src="/assets/images/trem2.jpg" alt="Trem turístico de Curitiba a Morretes" loading="lazy"><span class="card-shade"></span><span class="destination-meta"><small>TRILHOS &amp; MONTANHAS</small><strong>Curitiba – Morretes</strong><span class="card-link">↗</span></span></a>
             </div>
         </section>
 
         <section class="experience-band" data-parallax-section>
-            <div class="experience-image" data-parallax="0.16"><img src="{{ url('assets/images/floripa.jpg') }}" alt="Praia em Florianópolis" loading="lazy"></div><div class="experience-overlay"></div>
+            <div class="experience-image" data-parallax="0.16"><img src="/assets/images/floripa.jpg" alt="Praia em Florianópolis" loading="lazy"></div><div class="experience-overlay"></div>
             <div class="experience-content section-wrap" data-reveal><p class="eyebrow eyebrow-light"><span class="eyebrow-line"></span>VIAGENS ESTUDANTIS</p><h2>Uma turma.<br><em>Mil histórias.</em></h2><p>Formatura em Florianópolis: dias de celebração, novas amizades e lembranças que ficam muito depois da viagem.</p><a class="button button-light" href="{{ route('formaturas') }}">Descubra o pacote <span>↗</span></a></div>
             <span class="experience-caption">FLORIANÓPOLIS · BRASIL</span>
         </section>
@@ -75,14 +75,14 @@
         <section class="services section-wrap" id="servicos">
             <div class="section-heading" data-reveal><div><p class="eyebrow"><span class="eyebrow-line"></span>DO PRIMEIRO PLANO AO EMBARQUE</p><h2>Tudo para ir<br>mais <em>longe.</em></h2></div><p class="heading-aside">Do aéreo ao rodoviário, da viagem de formatura ao intercâmbio — reunimos o que você precisa para viajar do seu jeito.</p></div>
             <div class="service-grid">
-                <article class="service-card" data-reveal><div class="service-image"><img src="{{ url('assets/images/passagens-areas.jpg') }}" alt="Passagens aéreas" loading="lazy"><span>01</span></div><h3>Passagens aéreas</h3><p>Destinos nacionais e internacionais.</p></article>
-                <article class="service-card" data-reveal><div class="service-image"><img src="{{ url('assets/images/Neoriviera-1-1024x680-2.jpg') }}" alt="Cruzeiro marítimo" loading="lazy"><span>02</span></div><h3>Cruzeiros marítimos</h3><p>Uma viagem inesquecível por mar.</p></article>
-                <article class="service-card" data-reveal><div class="service-image"><img src="{{ url('assets/images/hoteis.jpg') }}" alt="Hospedagem em viagem" loading="lazy"><span>03</span></div><h3>Hotéis e veículos</h3><p>Hospedagem e mobilidade no destino.</p></article>
-                <article class="service-card" data-reveal><div class="service-image"><img src="{{ url('assets/images/formaturas.jpg') }}" alt="Viagens de formatura" loading="lazy"><span>04</span></div><h3>Viagens de formatura</h3><p>Para formandos do 9º e 3º anos.</p></article>
-                <article class="service-card" data-reveal><div class="service-image"><img src="{{ url('assets/images/thinkstockphotos-614316294.jpg') }}" alt="Viagem rodoviária" loading="lazy"><span>05</span></div><h3>Viagens rodoviárias</h3><p>Destinos nacionais e internacionais.</p></article>
-                <article class="service-card" data-reveal><div class="service-image"><img src="{{ url('assets/images/intercambio-pacotes.jpg') }}" alt="Intercâmbio cultural" loading="lazy"><span>06</span></div><h3>Intercâmbios</h3><p>Aprenda idiomas e viva novas culturas.</p></article>
-                <article class="service-card" data-reveal><div class="service-image"><img src="{{ url('assets/images/destinos-roda-mundo-intercambio.jpg') }}" alt="Circuito europeu" loading="lazy"><span>07</span></div><h3>Circuito europeu</h3><p>Roteiros organizados com instituições de ensino.</p></article>
-                <article class="service-card" data-reveal><div class="service-image"><img src="{{ url('assets/images/programas-de-intercambio-740x360-1.jpg') }}" alt="Viagem pedagógica" loading="lazy"><span>08</span></div><h3>Viagens pedagógicas</h3><p>Conhecimento e descoberta pelo mundo.</p></article>
+                <article class="service-card" data-reveal><div class="service-image"><img src="/assets/images/passagens-areas.jpg" alt="Passagens aéreas" loading="lazy"><span>01</span></div><h3>Passagens aéreas</h3><p>Destinos nacionais e internacionais.</p></article>
+                <article class="service-card" data-reveal><div class="service-image"><img src="/assets/images/Neoriviera-1-1024x680-2.jpg" alt="Cruzeiro marítimo" loading="lazy"><span>02</span></div><h3>Cruzeiros marítimos</h3><p>Uma viagem inesquecível por mar.</p></article>
+                <article class="service-card" data-reveal><div class="service-image"><img src="/assets/images/hoteis.jpg" alt="Hospedagem em viagem" loading="lazy"><span>03</span></div><h3>Hotéis e veículos</h3><p>Hospedagem e mobilidade no destino.</p></article>
+                <article class="service-card" data-reveal><div class="service-image"><img src="/assets/images/formaturas.jpg" alt="Viagens de formatura" loading="lazy"><span>04</span></div><h3>Viagens de formatura</h3><p>Para formandos do 9º e 3º anos.</p></article>
+                <article class="service-card" data-reveal><div class="service-image"><img src="/assets/images/thinkstockphotos-614316294.jpg" alt="Viagem rodoviária" loading="lazy"><span>05</span></div><h3>Viagens rodoviárias</h3><p>Destinos nacionais e internacionais.</p></article>
+                <article class="service-card" data-reveal><div class="service-image"><img src="/assets/images/intercambio-pacotes.jpg" alt="Intercâmbio cultural" loading="lazy"><span>06</span></div><h3>Intercâmbios</h3><p>Aprenda idiomas e viva novas culturas.</p></article>
+                <article class="service-card" data-reveal><div class="service-image"><img src="/assets/images/destinos-roda-mundo-intercambio.jpg" alt="Circuito europeu" loading="lazy"><span>07</span></div><h3>Circuito europeu</h3><p>Roteiros organizados com instituições de ensino.</p></article>
+                <article class="service-card" data-reveal><div class="service-image"><img src="/assets/images/programas-de-intercambio-740x360-1.jpg" alt="Viagem pedagógica" loading="lazy"><span>08</span></div><h3>Viagens pedagógicas</h3><p>Conhecimento e descoberta pelo mundo.</p></article>
             </div>
         </section>
 
@@ -95,6 +95,6 @@
 
     <footer class="site-footer"><div class="footer-top section-wrap"><a class="brand brand-footer" href="{{ route('home') }}"><span class="brand-mark"><span></span><span></span><span></span></span><span class="brand-copy"><strong>exclusiva</strong><small>VIAGENS · PORTO ALEGRE</small></span></a><p>Há mais de 20 anos<br>levando você mais longe.</p><a class="footer-contact" href="{{ route('contato') }}">Vamos planejar<br>sua próxima viagem? <span>↗</span></a></div><div class="footer-bottom section-wrap"><span>© {{ date('Y') }} Exclusiva Viagens</span><div><a href="{{ route('nacionais') }}">Destinos nacionais</a><a href="{{ route('internacionais') }}">Destinos internacionais</a><a href="{{ route('contato') }}">Contato</a></div><a class="back-top" href="#top">Voltar ao topo ↑</a></div></footer>
     <a class="whatsapp-float" href="https://api.whatsapp.com/send?phone=51999239678&amp;text=Ol%C3%A1%2C%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens." target="_blank" rel="noopener noreferrer" aria-label="Fale com um consultor pelo WhatsApp"><span class="whatsapp-icon">◉</span><span>Fale com um consultor</span></a>
-    <script src="{{ url('assets/home.js') }}" defer></script>
+    <script src="/assets/home.js" defer></script>
 </body>
 </html>
