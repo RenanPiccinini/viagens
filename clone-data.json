@@ -1,0 +1,22 @@
+{
+  "capturedAt": "2026-09-27T21:50:32.012Z",
+  "counts": {
+    "fonts": 24,
+    "images": 36,
+    "sections": 7,
+    "stylesheets": 58
+  },
+  "options": {
+    "assets": true,
+    "css": true,
+    "deep": true,
+    "screenshots": true
+  },
+  "title": "Exclusiva – Agência de Viagens",
+  "url": "https://exclusivaviagens.com.br/",
+  "viewport": {
+    "dpr": 2,
+    "h": 869,
+    "w": 1710
+  }
+}
