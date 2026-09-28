@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#092c3a">
+    <meta name="theme-color" content="#1e2664">
     <meta name="description" content="Viagens nacionais, internacionais, estudantis e experiências feitas para você. Há mais de 20 anos criando histórias com a Exclusiva Viagens, em Porto Alegre.">
     <title>Exclusiva Viagens — O mundo no seu tempo</title>
     <link rel="icon" href="{{ asset('assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png') }}">
@@ -16,8 +16,7 @@
     <div class="scroll-progress" aria-hidden="true"></div>
     <header class="site-header" id="top">
         <a class="brand" href="{{ route('home') }}" aria-label="Exclusiva Viagens, início">
-            <span class="brand-mark"><span></span><span></span><span></span></span>
-            <span class="brand-copy"><strong>exclusiva</strong><small>VIAGENS · PORTO ALEGRE</small></span>
+            <img class="brand-logo" src="{{ asset('images/logo.png') }}" alt="Exclusiva Viagens">
         </a>
         <button class="menu-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" aria-controls="main-nav"><span></span><span></span></button>
         <nav class="main-nav" id="main-nav" aria-label="Navegação principal">
@@ -33,8 +32,13 @@
 
     <main>
         <section class="hero" aria-labelledby="hero-title">
-            <div class="hero-image hero-image-main" data-parallax="0.12"><img src="{{ asset('assets/images/water-bungalows-and-wooden-jetty-on-maldives-1-e1608537138634.jpg') }}" alt="Bangalôs sobre o mar nas Maldivas"></div>
-            <div class="hero-image hero-image-side" data-parallax="0.2"><img src="{{ asset('assets/images/BARILOCHE-1-scaled-1.jpg') }}" alt="Paisagem montanhosa de Bariloche"></div>
+            <div class="hero-slideshow" data-parallax="0.12" aria-label="Destinos Exclusiva Viagens">
+                <div class="hero-slide is-active"><img src="{{ asset('assets/images/water-bungalows-and-wooden-jetty-on-maldives-1-e1608537138634.jpg') }}" alt="Bangalôs sobre o mar nas Maldivas"></div>
+                <div class="hero-slide"><img src="{{ asset('assets/images/BARILOCHE-1-scaled-1.jpg') }}" alt="Paisagem montanhosa de Bariloche"></div>
+                <div class="hero-slide"><img src="{{ asset('assets/images/CRISTO-REDENTOR-CORCOVADO-RJ-19.jpg') }}" alt="Cristo Redentor no Rio de Janeiro"></div>
+                <div class="hero-slide"><img src="{{ asset('assets/images/beach-and-boats-as-a-background-gili-meno-islands-indonesia-e1608537155785-1.jpg') }}" alt="Praia e barcos em Gili Meno, Indonésia"></div>
+                <div class="hero-slide"><img src="{{ asset('assets/images/pocitos3.jpg') }}" alt="Orla de Pocitos, no Uruguai"></div>
+            </div>
             <div class="hero-shade"></div>
             <div class="hero-grain" aria-hidden="true"></div>
             <div class="hero-content" data-reveal>
@@ -45,7 +49,7 @@
             </div>
             <div class="hero-note"><span class="note-dot"></span>Seu próximo destino está mais perto</div>
             <a class="hero-scroll" href="#destinos"><span class="scroll-line"></span>DESLIZE PARA EXPLORAR</a>
-            <div class="hero-index"><strong>01</strong><span>/</span>05</div>
+            <div class="hero-index" aria-live="polite"><strong>01</strong><span>/</span>05</div>
         </section>
 
         <section class="intro section-wrap" data-reveal>
@@ -93,7 +97,7 @@
         </section>
     </main>
 
-    <footer class="site-footer"><div class="footer-top section-wrap"><a class="brand brand-footer" href="{{ route('home') }}"><span class="brand-mark"><span></span><span></span><span></span></span><span class="brand-copy"><strong>exclusiva</strong><small>VIAGENS · PORTO ALEGRE</small></span></a><p>Há mais de 20 anos<br>levando você mais longe.</p><a class="footer-contact" href="{{ route('contato') }}">Vamos planejar<br>sua próxima viagem? <span>↗</span></a></div><div class="footer-bottom section-wrap"><span>© {{ date('Y') }} Exclusiva Viagens</span><div><a href="{{ route('nacionais') }}">Destinos nacionais</a><a href="{{ route('internacionais') }}">Destinos internacionais</a><a href="{{ route('contato') }}">Contato</a></div><a class="back-top" href="#top">Voltar ao topo ↑</a></div></footer>
+    <footer class="site-footer"><div class="footer-top section-wrap"><a class="brand brand-footer" href="{{ route('home') }}" aria-label="Exclusiva Viagens, início"><img class="brand-logo" src="{{ asset('images/logo.png') }}" alt="Exclusiva Viagens"></a><p>Há mais de 20 anos<br>levando você mais longe.</p><a class="footer-contact" href="{{ route('contato') }}">Vamos planejar<br>sua próxima viagem? <span>↗</span></a></div><div class="footer-bottom section-wrap"><span>© {{ date('Y') }} Exclusiva Viagens</span><div><a href="{{ route('nacionais') }}">Destinos nacionais</a><a href="{{ route('internacionais') }}">Destinos internacionais</a><a href="{{ route('contato') }}">Contato</a></div><a class="back-top" href="#top">Voltar ao topo ↑</a></div></footer>
     <a class="whatsapp-float" href="https://api.whatsapp.com/send?phone=51999239678&amp;text=Ol%C3%A1%2C%20gostaria%20de%20falar%20com%20um%20consultor%20da%20Exclusiva%20Viagens." target="_blank" rel="noopener noreferrer" aria-label="Fale com um consultor pelo WhatsApp"><span class="whatsapp-icon">◉</span><span>Fale com um consultor</span></a>
     <script src="{{ asset('assets/home.js') }}" defer></script>
 </body>
