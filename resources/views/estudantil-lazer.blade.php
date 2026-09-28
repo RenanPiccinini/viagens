@@ -72,11 +72,11 @@
 			
             
                         
-            <link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png" sizes="32x32">
-<link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
+            <link rel="icon" href="{{ asset('assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png') }}" sizes="32x32">
+<link rel="icon" href="{{ asset('assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png') }}" sizes="192x192">
+<link rel="apple-touch-icon" href="{{ asset('assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png') }}">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2021/03/cropped-exclusiva-viagens-faviicon-1-270x270.png">
-<link rel="stylesheet" href="/estudantil-lazer-styles.css"></head>
+<link rel="stylesheet" href="{{ asset('estudantil-lazer-styles.css') }}"></head>
 
 <body data-rsssl="1" class="wp-singular page-template page-template-elementor_header_footer page page-id-105 custom-background wp-embed-responsive wp-theme-twentytwentyone is-light-theme has-background-white singular has-main-navigation elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-105 e--ua-blink e--ua-chrome e--ua-mac e--ua-webkit clickup-chrome-ext_installed" data-elementor-device-mode="desktop" cz-shortcut-listen="true">
 <div id="page" class="site">
@@ -197,7 +197,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-24dd88e3 elementor-widget elementor-widget-image" data-id="24dd88e3" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img fetchpriority="high" decoding="async" width="800" height="450" src="/assets/images/floripa.jpg" class="elementor-animation-float attachment-full size-full wp-image-256" alt="" style="width:100%;height:56.25%;max-width:800px">															</div>
+															<img fetchpriority="high" decoding="async" width="800" height="450" src="{{ asset('assets/images/floripa.jpg') }}" class="elementor-animation-float attachment-full size-full wp-image-256" alt="" style="width:100%;height:56.25%;max-width:800px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-33023c3b elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="33023c3b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -233,7 +233,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-1cc551b9 elementor-widget elementor-widget-image" data-id="1cc551b9" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="1060" height="706" src="/assets/images/Image-EKP8FQM.jpg" class="elementor-animation-float attachment-full size-full wp-image-31" alt="" style="width:100%;height:66.6%;max-width:1060px">															</div>
+															<img decoding="async" width="1060" height="706" src="{{ asset('assets/images/Image-EKP8FQM.jpg') }}" class="elementor-animation-float attachment-full size-full wp-image-31" alt="" style="width:100%;height:66.6%;max-width:1060px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-1a281996 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="1a281996" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -273,7 +273,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-ee8b10c elementor-widget elementor-widget-image" data-id="ee8b10c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="2000" height="1333" src="/assets/images/prambanan-lhindu-temple-ruins-java-indonesia-.jpg" class="elementor-animation-float attachment-full size-full wp-image-40" alt="" style="width:100%;height:66.65%;max-width:2000px">															</div>
+															<img decoding="async" width="2000" height="1333" src="{{ asset('assets/images/prambanan-lhindu-temple-ruins-java-indonesia-.jpg') }}" class="elementor-animation-float attachment-full size-full wp-image-40" alt="" style="width:100%;height:66.65%;max-width:2000px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-3dc3c0c0 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="3dc3c0c0" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -375,7 +375,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-fcbabe9 elementor-widget elementor-widget-image" data-id="fcbabe9" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="2000" height="1334" src="/assets/images/borobudur-temple-in-java.jpg" class="elementor-animation-float attachment-full size-full wp-image-41" alt="" style="width:100%;height:66.7%;max-width:2000px">															</div>
+															<img decoding="async" width="2000" height="1334" src="{{ asset('assets/images/borobudur-temple-in-java.jpg') }}" class="elementor-animation-float attachment-full size-full wp-image-41" alt="" style="width:100%;height:66.7%;max-width:2000px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-0d55e9f elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="0d55e9f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -415,7 +415,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-925a01b elementor-widget elementor-widget-image" data-id="925a01b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="1060" height="706" src="/assets/images/Image-XN7A66P.jpg" class="elementor-animation-float attachment-full size-full wp-image-42" alt="" style="width:100%;height:66.6%;max-width:1060px">															</div>
+															<img decoding="async" width="1060" height="706" src="{{ asset('assets/images/Image-XN7A66P.jpg') }}" class="elementor-animation-float attachment-full size-full wp-image-42" alt="" style="width:100%;height:66.6%;max-width:1060px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-41367ad elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="41367ad" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -455,7 +455,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-5bb4156 elementor-widget elementor-widget-image" data-id="5bb4156" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="1060" height="706" src="/assets/images/Image-PCLVTZF.jpg" class="elementor-animation-float attachment-full size-full wp-image-43" alt="" style="width:100%;height:66.6%;max-width:1060px">															</div>
+															<img decoding="async" width="1060" height="706" src="{{ asset('assets/images/Image-PCLVTZF.jpg') }}" class="elementor-animation-float attachment-full size-full wp-image-43" alt="" style="width:100%;height:66.6%;max-width:1060px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-546f3f4 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="546f3f4" data-element_type="widget" data-e-type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -776,5 +776,5 @@
 		
 
 
-<script src="/assets/menu.js"></script>
+<script src="{{ asset('assets/menu.js') }}"></script>
 </body></html>

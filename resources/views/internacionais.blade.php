@@ -70,11 +70,11 @@
 			
             
                         
-            <link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png" sizes="32x32">
-<link rel="icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="/assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png">
+            <link rel="icon" href="{{ asset('assets/images/cropped-exclusiva-viagens-faviicon-1-32x32.png') }}" sizes="32x32">
+<link rel="icon" href="{{ asset('assets/images/cropped-exclusiva-viagens-faviicon-1-192x192.png') }}" sizes="192x192">
+<link rel="apple-touch-icon" href="{{ asset('assets/images/cropped-exclusiva-viagens-faviicon-1-180x180.png') }}">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2021/03/cropped-exclusiva-viagens-faviicon-1-270x270.png">
-<link rel="stylesheet" href="/styles.css"><link rel="stylesheet" href="/internacionais-styles.css"></head>
+<link rel="stylesheet" href="{{ asset('styles.css') }}"><link rel="stylesheet" href="{{ asset('internacionais-styles.css') }}"></head>
 
 <body data-rsssl="1" class="wp-singular page-template page-template-elementor_header_footer page page-id-103 custom-background wp-embed-responsive wp-theme-twentytwentyone is-light-theme has-background-white singular has-main-navigation elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-103 clickup-chrome-ext_installed" cz-shortcut-listen="true">
 <div id="page" class="site">
@@ -197,7 +197,7 @@
                                             <div class="elementskit-post-image-card">
                             <div class="elementskit-entry-header">
                                                                     <a href="/circuito-andino/" class="elementskit-entry-thumb">
-                                        <img decoding="async" src="/assets/images/1526660879-1.jpg" alt="Circuito Andino">
+                                        <img decoding="async" src="{{ asset('assets/images/1526660879-1.jpg') }}" alt="Circuito Andino">
                                     </a><!-- .elementskit-entry-thumb END -->
                                                                     
                                 
@@ -226,7 +226,7 @@
                                             <div class="elementskit-post-image-card">
                             <div class="elementskit-entry-header">
                                                                     <a href="/costaneorivieira/" class="elementskit-entry-thumb">
-                                        <img decoding="async" src="/assets/images/costa-neoriviera-ta-listings.jpg" alt="Costaneorivieira">
+                                        <img decoding="async" src="{{ asset('assets/images/costa-neoriviera-ta-listings.jpg') }}" alt="Costaneorivieira">
                                     </a><!-- .elementskit-entry-thumb END -->
                                                                     
                                 
@@ -506,5 +506,5 @@ Stack trace:
 
 	<div class="wp-die-message"><p>Há um erro crítico no seu site.</p><p><a href="https://wordpress.org/documentation/article/faq-troubleshooting/">Saiba mais sobre a como resolver problemas do WordPress.</a></p></div>
 
-	<script src="/assets/menu.js"></script>
+	<script src="{{ asset('assets/menu.js') }}"></script>
 </body></html>
